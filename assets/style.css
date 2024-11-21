@@ -5,13 +5,7 @@
   font-family: serif;
 }
 body {
-  background: linear-gradient(
-    to right,
-    rgb(247, 137, 137),
-    rgb(209, 195, 195),
-    rgb(207, 140, 140),
-    rgb(236, 76, 76)
-  );
+  background-color: gray;
 }
 .container {
   height: 100%;
