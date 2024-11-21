@@ -6,11 +6,15 @@
 }
 body {
   background-color: gray;
+  background-image: url(we.jpg);
+  /* background-repeat: no-repeat; */
+  background-repeat: repeat-x;
+  /* background-size: cover; */
 }
 .container {
   height: 100%;
   width: 400px;
-  background-color: rgba(104, 96, 96, 0.363);
+  background-color: rgba(0, 247, 214, 0.336);
   margin: 0 auto;
   padding: 10px 20px;
 }
@@ -35,6 +39,7 @@ body {
   border-radius: 10px;
   outline: none;
   border: none;
+  cursor: pointer;
 }
 .container  h1{
   text-align: center;
@@ -47,4 +52,16 @@ body {
   margin-top: 30px;
   margin-bottom: 20px;
   /* display: none; */
+}
+.container p{
+  background-color: rgba(72, 255, 0, 0.726);
+  border-radius: 10px;
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+
+.container p img{
+  width: 20px;
+  height: 20px;
 }
