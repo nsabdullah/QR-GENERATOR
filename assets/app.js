@@ -1,7 +1,7 @@
 let input = document.getElementById("input");
 let button = document.getElementById("button");
 let qrImg = document.getElementById("qr-img");
-
+let h = document.getElementById("h");
 // Function
 
 function qrGenerate() {

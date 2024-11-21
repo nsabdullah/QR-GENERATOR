@@ -36,6 +36,9 @@ body {
   outline: none;
   border: none;
 }
+.container  h1{
+  text-align: center;
+}
 .container img {
   display: block;
   margin: 0 auto;
