@@ -41,7 +41,7 @@ body {
   border: none;
   cursor: pointer;
 }
-.container  h1{
+.container h1 {
   text-align: center;
 }
 .container img {
@@ -53,15 +53,14 @@ body {
   margin-bottom: 20px;
   /* display: none; */
 }
-.container p{
+.container p {
   background-color: rgba(72, 255, 0, 0.726);
   border-radius: 10px;
   font-size: 25px;
   padding-bottom: 20px;
 }
 
-
-.container p img{
+.container p img {
   width: 20px;
   height: 20px;
 }
