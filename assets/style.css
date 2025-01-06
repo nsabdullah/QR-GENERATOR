@@ -6,7 +6,7 @@
 }
 body {
   background-color: gray;
-  background-image: url(we.jpg);
+  /* background-image: url(we.jpg); */
   /* background-repeat: no-repeat; */
   background-repeat: repeat-x;
   /* background-size: cover; */
